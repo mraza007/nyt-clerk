@@ -6,8 +6,8 @@ Usage
 
 ::
 
-    pip install -e git@github.com:newsdev/nyt-clerk.git#egg=clerk
-    clerk justices
+    python3 setup.py install --user
+    sudo python3 setup.py install 
 
 Data
 ====
